@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/bricks_bg.jpg) 
+  background: url(images/complementarycolors_bg.jpg) 
       center center fixed no-repeat;
     background-size: cover;
 	
@@ -71,15 +71,14 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(0, 150, 178, .15); /*this uses opacity of 15% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
 }
 
    
 #logo {
     margin-bottom: 16px;
-	border: 3px dashed red;
+	border: 3px;
 	text-align: center;
 }
 
@@ -114,7 +113,6 @@ nav{
     font-size: 1.2em;
     width: 400px;
     margin: 0 auto;
-    border: dashed turquoise;
     border-width: 3px 0;
     text-align: center;
     margin-top: 2em;
@@ -130,11 +128,11 @@ nav a {
 }
 
 a{
-    color: #444;
+    color: #666;
     text-decoration: none;
     font-weight: bold;
 }
 a:hover{
-    color:black;
-    background:pink;
+    color:rebeccapurple;
+    background:lightyellow;
 }
