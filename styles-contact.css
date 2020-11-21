@@ -71,7 +71,6 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .15); /*this uses opacity of 15% for the background color*/
 	text-align: center;
 }
 
@@ -87,7 +86,7 @@ h1 {
     font-family: helvetica, sans-serif;
 	font-size: 2em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color: #000;
 }
 
 h2 {
@@ -95,7 +94,7 @@ h2 {
     font-family: helvetica, sans-serif;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: #000;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
@@ -105,7 +104,7 @@ p {
     font-family: garamond, serif;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: #000;
 }
 
 nav{
@@ -128,7 +127,7 @@ nav a {
 }
 
 a{
-    color: #666;
+    color: #999;
     text-decoration: none;
     font-weight: bold;
 }
