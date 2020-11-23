@@ -71,7 +71,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
-    background: rgba(0, 150, 178, .15); /*this uses the opacity of 15% for the background color*/
+    background: rgba(225, 225, 225, .5); /*this uses the opacity of 30% for the background color*/
 	text-align: center;
 }
 
@@ -113,6 +113,7 @@ nav{
     font-size: 1.2em;
     width: 400px;
     margin: 0 auto;
+    border: solid lightyellow;
     border-width: 3px 0;
     text-align: center;
     margin-top: 2em;
@@ -128,7 +129,7 @@ nav a {
 }
 
 a{
-    color: #999;
+    color: #444;
     text-decoration: none;
     font-weight: bold;
 }
