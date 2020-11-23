@@ -71,6 +71,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
+    background: rgba(0, 150, 178, .15); /*this uses the opacity of 15% for the background color*/
 	text-align: center;
 }
 
