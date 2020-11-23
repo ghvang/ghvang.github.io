@@ -71,7 +71,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
-    background: rgba(225, 225, 225, .5); /*this uses the opacity of 30% for the background color*/
+    background: rgba(225, 225, 225, .3); /*this uses the opacity of 30% for the background color*/
 	text-align: center;
 }
 
