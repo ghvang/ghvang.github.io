@@ -1,3 +1,4 @@
+
 <!doctype html>  
 <html>  
     <head>  
@@ -6,7 +7,7 @@
             <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />  
             <meta http-equiv="Pragma" content="no-cache" />  
             <meta http-equiv="Expires" content="0" />  
-            <title>GRC 338: Hello world assignment</title>  
+            <title>Korberl at Blue Restaurant Menu</title>  
     </head>   
     <body>  
        <h1>Koberl at Blue</h1>
@@ -14,122 +15,122 @@
 <h2>Main Menu</h2>
 
 <h3>Appetizers</h3>
+<ul>
+    <li><h4>Tempura Fried</h4>
 
-Tempura Fried
+        <p>with lemon soy aioli and wasabi tobiko</p>
 
-with lemon soy aioli and wasabi tobiko
+        <p>$16.00</p></li>
 
-$16.00
+    <li><h4>Seared Sea Scallops</h4>
 
-Seared Sea Scallops
+        <p>with artichoke duxelle, bacon brown butter and radish sprouts or seasoned with hiwa kai sea salt on edamame puree with citrus vinaigrette</p>
 
-with artichoke duxelle, bacon brown butter and radish sprouts or seasoned with hiwa kai sea salt on edamame puree with citrus vinaigrette
+        <p>$15.00</p></li>
 
-$15.00
+    <li><h4>Crispy Snow Crab chinois</h4>
 
-Crispy Snow Crab chinois
+    <p>with ginger, garlic and cilantro</p>
 
-with ginger, garlic and cilantro
+    <p>$14.00</p></li>
 
-$14.00
+    <l1><h4>Shrimp</h4>
 
-Shrimp
+    <p>tempura with tomato, chipotle and avocado relish or sauteed, with artichoke duxelle, bacon brown butter and radish sprouts</p>
 
-tempura with tomato, chipotle and avocado relish or sauteed, with artichoke duxelle, bacon brown butter and radish sprouts
+    <p>$14.00</p></l1>
 
-$14.00
+    <l1><h4>Beef Filet Carpaccio</h4>
 
-Beef Filet Carpaccio
+    <p>horseradish aioli, shaved parmigiano reggiano, salad of celery root, parsley and sweet onion</p>
 
-horseradish aioli, shaved parmigiano reggiano, salad of celery root, parsley and sweet onion
+    <p>$12.00</p></l1>
 
-$12.00
+    <li><h4>Sauteed Veal Sweetbread and Shrimp</h4>
 
-Sauteed Veal Sweetbread and Shrimp
+        <p>salad of shitake mushrooms, orange and field greens in sherry dressing</p>
 
-salad of shitake mushrooms, orange and field greens in sherry dressing
+        <p>$14.00</p></li></ul>
 
-$14.00
+        <h3>Salads</h3>
+<ul>
+    <li><h4>Butter Leaf and Fuji Apple</h4>
 
-Salads
+        <p>maytag blue cheese, candied walnuts, champagne vinaigrette</p>
 
-Butter Leaf and Fuji Apple
+        <p>$8.00</p></li>
 
-maytag blue cheese, candied walnuts, champagne vinaigrette
+    <li><h4>Caesar</h4>
 
-$8.00
+        <p>hearts of romaine, garlic croutons, spanish white anchovies, parmesano reggiano</p>
 
-Caesar
+        <p>$8.00</p></li>
 
-hearts of romaine, garlic croutons, spanish white anchovies, parmesano reggiano
+    <li><h4>Field Greens and Avocado BLT</h4>
 
-$8.00
+        <p>caramelized onion and bacon bruschetta, tomatoes and creamy red wine dressing</p>
 
-Field Greens and Avocado BLT
-
-caramelized onion and bacon bruschetta, tomatoes and creamy red wine dressing
-
-$9.00
-
+        <p>$9.00</p></li>
+        </ul>
  
 
 <h3>Entrees</h3>
+<ul>
+    <li><h4>Pan Roasted Chicken Breast</h4>
 
-Pan Roasted Chicken Breast
+        <p>artichoke risotto cake, grilled asparagus, mushroom marsala cream sauce and almond gremolata</p>
 
-artichoke risotto cake, grilled asparagus, mushroom marsala cream sauce and almond gremolata
+        <p>$22.00</p><li>
 
-$22.00
+    <li><h4>Herb Roasted Halibut</h4>
 
-Herb Roasted Halibut
+    <p>wild mushroom ravioli, sauteed spinach, basil vermouth sauce and melted tomatoes</p>
 
-wild mushroom ravioli, sauteed spinach, basil vermouth sauce and melted tomatoes
+        <p>$30.00</p></li>
 
-$30.00
+<li><h4>Crispy Filet of Salmon</h4>
 
-Crispy Filet of Salmon
+    <p>on saffron pearl couscous with chorizo, menage au pois, lemon beurre blanc and roasted tomato, olive and caper relish</p>
 
-on saffron pearl couscous with chorizo, menage au pois, lemon beurre blanc and roasted tomato, olive and caper relish
+    <p>$25.00</p></li>
 
-$25.00
+<li><h4>Coriander Seared Sea Scallops and Shrimp</h4>
 
-Coriander Seared Sea Scallops and Shrimp
+    <p>spiced chucka soba noodles, asparagus and mushrooms, lemon ginger butter sauce</p>
 
-spiced chucka soba noodles, asparagus and mushrooms, lemon ginger butter sauce
+    <p>$28.00</p></li>
 
-$28.00
+    <li><h4>Sauteed Duck Breast and Confit of Duck</h4>
 
-Sauteed Duck Breast and Confit of Duck
+        <p>spring vegetable and yukon gold hash with applewood smoked bacon and goat cheese, rainbow chard and port blackberry sauce</p>
 
-spring vegetable and yukon gold hash with applewood smoked bacon and goat cheese, rainbow chard and port blackberry sauce
+        <p>$28.00</p></li>
 
-$28.00
+    <li><h4>Grilled Pork Chop</h4>
 
-Grilled Pork Chop
+        <p>roasted fingerling potatoes, corn, fava beans, cipollini, pancetta and watercress tarragon mustard sauce</p>
 
-roasted fingerling potatoes, corn, fava beans, cipollini, pancetta and watercress tarragon mustard sauce
-
-$25.00
+        <p>$25.00</p></li></ul>
 
 <h3>Dessert</h3>
+<ul>
+    <li><h4>Dark Chocolate Mousse</h4>
 
-Dark Chocolate Mousse
+        <p>with whipped cream and almond wafer</p>
 
-with whipped cream and almond wafer
+        <p>$10.00,</p></li>
 
-$10.00
+    <li><h4>Creme Brulee</h4>
 
-Creme Brulee
+        <p>french vanilla custard, fresh berries</p>
 
-french vanilla custard, fresh berries
+        <p>$8.00</p></li>
 
-$8.00
+<li><h4>Chocolate Lava Cake</h4>
 
-Chocolate Lava Cake
+    <p>raspberry coulis, creme anglaise</p>
 
-raspberry coulis, creme anglaise
-
-$12.00
+    <p>$12.00</p></li></ul>
 
     </body>  
 </html>
